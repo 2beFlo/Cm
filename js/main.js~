@@ -1,4 +1,4 @@
-$.getJSON( "https://api.twitch.tv/kraken/streams/2beFlo?callback=?", function(response) {
+$.getJSON( "https://api.twitch.tv/kraken/streams/lost_in_house?callback=?", function(response) {
   if (response.stream){
     $('.viewers span').text(response.stream.viewers);
     $('.intro iframe').removeClass("hidden");
@@ -8,6 +8,6 @@ $.getJSON( "https://api.twitch.tv/kraken/streams/2beFlo?callback=?", function(re
   }
 });
 
-$.getJSON( "https://api.twitch.tv/kraken/channels/twitchusername/follows?callback=?", function(response) {
+$.getJSON( "https://api.twitch.tv/kraken/channels/lost_in_house/follows?callback=?", function(response) {
   $('.followers span').text(response["_total"]);
 });
