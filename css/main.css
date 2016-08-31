@@ -121,15 +121,15 @@
 }
 
 .headline {
-  background: #404758;
+  background: #DB9D00;
   color: #fff;
-  border-bottom: 1px solid #363D4E;
+  border-bottom: 1px solid #DB9D00;
 }
 
 .stats {
-  background: #EB5858;
+  background: #AB6D00;
   color: #fff;
-  border-bottom: 1px solid #EB5050;
+  border-bottom: 1px solid #AB6D00;
 }
 
 .avatar {
@@ -150,7 +150,7 @@
 }
 
 .matches {
-  border-top: solid 1px #747985;
+  border-top: solid 1px #DB9D00;
   background: #fff;
   padding: 0;
 }
@@ -203,7 +203,7 @@
 
 .footer {
   text-align: center;
-  background: #7A838E;
+  background: #DB9D00;
   border-radius: 6px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
