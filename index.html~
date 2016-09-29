@@ -70,7 +70,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 headline">
-            <h3>Sendungen</h3>
+            <h3>Meine Sets</h3>
           </div>
           <div class="col-md-4 stats">
             <img class="avatar img-responsive" src="img/avatar.png">
@@ -84,17 +84,11 @@
         <div class="row">
           <div class="col-md-8 matches">
             <div class="match">
-              <h4>Connected:Music Radioshow</h4>
               <div class="row">
-                <div class="col-md-4">
-                  <img src="img/CMRadioshow.png" />
-                </div>
-                <div class="col-md-8">
-                  <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                </div>
+<iframe scrolling="no" id="hearthis_at_user_39437-959818" width="100%" height="550" src="https://hearthis.at/set/39437-959818/embed/" frameborder="0" allowtransparency></iframe>
               </div>
             </div>
-            <div class="match">
+   <!--         <div class="match">
               <h4>Klangwelten LIVE</h4>
               <div class="row">
                 <div class="col-md-4">
@@ -102,18 +96,14 @@
                 </div>
                 <div class="col-md-8">
                   <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-
                 </div>
               </div>
-                	<br/>
-                	<br/>
-                	<br/>
-            </div>
+            </div>-->
             
           </div>
           <div class="col-md-4 chat">
             <h2>Chat</h2>
-            <iframe src="http://www.twitch.tv/2beFlo/chat?popout=" frameborder="0" scrolling="no" height="510" width="100%"></iframe>
+            <iframe src="http://www.twitch.tv/2beFlo/chat?popout=" frameborder="0" scrolling="no" height="500" width="100%"></iframe>
          </div>
         </div>
         <div class="row footer">
